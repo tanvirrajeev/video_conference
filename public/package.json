@@ -1,0 +1,17 @@
+{
+  "name": "video_conference",
+  "version": "1.0.0",
+  "description": "BCAT Video Conferencing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Tanir Rahim",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "socket.io": "^2.3.0"
+  }
+}
